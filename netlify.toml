@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/rio.html"
+ststus = 200
